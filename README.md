@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @akhileshpanigrahi
+- 👋 Hi, I’m Akhilesh Panigrahi
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning NLP
 - 💞️ I’m looking to collaborate on creating projects for competitions on kaggle, AnalyticsVidhya, etc
