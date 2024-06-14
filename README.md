@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Akhilesh Panigrahi
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently pursuing PD diploma in AI and ML from IIIT Bangalore.
+- 👀 I’m interested in Data Science, Machine Learning and Data Analytics.
 - 💞️ I’m looking to collaborate on creating projects for competitions on kaggle, AnalyticsVidhya, etc
 - 📫 How to reach me . Email - akhilesh.panigrahi@hotmail.com
 
