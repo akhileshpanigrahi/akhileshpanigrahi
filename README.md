@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Akhilesh Panigrahi
-- 👀 I’m interested in Data Science, Machine Learning and Data Analytics.
-- 💞️ I’m looking to collaborate on creating projects for competitions on kaggle, AnalyticsVidhya, etc
+- 👀 I’m interested in Data Science, Machine Learning, Data Analytics and Blockchain
+- 💞️ I’m looking to collaborate on creating projects for competitions on kaggle, AnalyticsVidhya, etc.
 - 📫 How to reach me . Email - akhilesh.panigrahi@hotmail.com
 
 <!---
